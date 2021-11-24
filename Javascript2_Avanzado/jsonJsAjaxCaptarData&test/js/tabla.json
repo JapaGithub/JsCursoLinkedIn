@@ -1,0 +1,37 @@
+[
+{
+    "id":1,
+    "Grupo":"d",
+    "Descripcion": "Cualquier Numero"
+},
+{
+    "id":2,
+    "Grupo":"w",
+    "Descripcion": "Cualquier Letra ò Numero"
+},
+{
+    "id":3,
+    "Grupo":"s",
+    "Descripcion": "Cualquier espacio en blanco incluidos tabs, salto de lineas o similares"
+},
+{
+    "id":4,
+    "Grupo":"D",
+    "Descripcion": "Cualquier caracter que no sea un numero"
+},
+{
+    "id":5,
+    "Grupo":"W",
+    "Descripcion": "Cualquier caracter que no sea alfanumerico"
+},
+{
+    "id":6,
+    "Grupo":"S",
+    "Descripcion": "Cualquier caracter que no sea un espacio en blanco"
+},
+{
+    "id":7,
+    "Grupo":".",
+    "Descripcion": "Cualquier caracter excepto nuevas lineas"
+}
+]
